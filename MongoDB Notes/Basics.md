@@ -1,0 +1,4 @@
+- - -
+- `show dbs` : Shows the databases
+-  `use db_name` : Selects the database if database already exists with the same name. If not it creates a new database with the given name and selects it
+- 

@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "31a6f2deedbf7f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc88c5f8cff9053a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1250dcb21249bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Process/Text Formatting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5391e441aa94285e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MongoDB Notes/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "202ab1c0e8f10c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "615acd845f43ccda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29aa883f8f07b11c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c2768043cd3fbbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f790447f64da4eeb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "59736db2a1864dc9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5276373db25fe97",
+    "type": "split",
+    "children": [
+      {
+        "id": "7683b2edc8809ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f677ade5827962",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MongoDB Notes/Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54f4faf84eddb8f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MongoDB Notes/Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32d10ecd3fff785a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d73bdf168881ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MongoDB Notes/Basics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5391e441aa94285e",
+  "lastOpenFiles": [
+    "README.md",
+    "Learning Process/Text Formatting.md",
+    "MongoDB Notes/Basics.md",
+    "Learning Process/Linking/Thrissur.md",
+    "Learning Process/Linking/Who are You.md",
+    "Learning Process/Linking/Malappuram.md",
+    "Learning Process/Linking/Kozhikkode.md",
+    "Learning Process/Linking/Kerala.md",
+    "Learning Process/Linking",
+    "Learning Process",
+    "MongoDB Notes",
+    "Untitled.canvas",
+    "Learning Process/Headings.md"
+  ]
+}
