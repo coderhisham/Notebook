@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Process/Text Formatting.md",
+                "file": "Learning Process/Linking/Kerala.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5391e441aa94285e",
+            "id": "fd72c45ef63e764d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB Notes/Basics.md",
-                "mode": "source",
+                "file": "MongoDB Notes/MongoDB CRUD Operations.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MongoDB Notes/Basics.md",
+                "file": "MongoDB Notes/MongoDB CRUD Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MongoDB Notes/Basics.md",
+                "file": "MongoDB Notes/MongoDB CRUD Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB Notes/Basics.md"
+                "file": "MongoDB Notes/MongoDB CRUD Operations.md"
               }
             }
           }
@@ -167,16 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5391e441aa94285e",
+  "active": "fd72c45ef63e764d",
   "lastOpenFiles": [
+    "MongoDB Notes/Basic Commands.md",
+    "MongoDB Notes/MongoDB CRUD Operations.md",
+    "MongoDB Notes/Untitled.canvas",
+    "MongoDB Notes/Introduction.md",
+    "MongoDB Notes/References/BSON.md",
+    "Learning Process/Linking/Who are You.md",
+    "Learning Process/Linking/Kerala.md",
+    "MongoDB Notes/References",
     "README.md",
     "Learning Process/Text Formatting.md",
-    "MongoDB Notes/Basics.md",
     "Learning Process/Linking/Thrissur.md",
-    "Learning Process/Linking/Who are You.md",
     "Learning Process/Linking/Malappuram.md",
     "Learning Process/Linking/Kozhikkode.md",
-    "Learning Process/Linking/Kerala.md",
     "Learning Process/Linking",
     "Learning Process",
     "MongoDB Notes",

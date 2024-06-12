@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Basics",
-      "path": "MongoDB Notes/Basics.md"
+      "basename": "MongoDB CRUD Operations",
+      "path": "MongoDB Notes/MongoDB CRUD Operations.md"
+    },
+    {
+      "basename": "Basic Commands",
+      "path": "MongoDB Notes/Basic Commands.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "MongoDB Notes/Introduction.md"
+    },
+    {
+      "basename": "BSON",
+      "path": "MongoDB Notes/References/BSON.md"
+    },
+    {
+      "basename": "Who are You",
+      "path": "Learning Process/Linking/Who are You.md"
+    },
+    {
+      "basename": "Kerala",
+      "path": "Learning Process/Linking/Kerala.md"
     },
     {
       "basename": "Text Formatting",
@@ -11,10 +31,6 @@
     {
       "basename": "Thrissur",
       "path": "Learning Process/Linking/Thrissur.md"
-    },
-    {
-      "basename": "Who are You",
-      "path": "Learning Process/Linking/Who are You.md"
     },
     {
       "basename": "Headings",

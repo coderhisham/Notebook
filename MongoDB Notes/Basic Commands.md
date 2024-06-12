@@ -1,5 +1,7 @@
-- - -
 - `show dbs` : shows the databases
+- `show collections` : shows collections
 -  `use db_name` : selects the database if a database already exists with the same name. If not it creates a new database with the given name and selects it.
 - `db` : shows current working db
+- `db.createCollection(name, options)`: creates a new collection.
+-  `db.collection_name.find()` : shows all documents inside that collection
 - 
